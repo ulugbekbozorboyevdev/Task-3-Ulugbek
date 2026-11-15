@@ -1,0 +1,36 @@
+LEGITIMATE MESSAGE 1
+--------------------
+Subject: Meeting Reminder
+
+Hello,
+
+This is a reminder that our study group meeting is scheduled for Monday at
+10:00 AM in Room 204. Please bring your notes.
+
+Why it appears legitimate:
+- Gives ordinary meeting information.
+- Does not request passwords or payment.
+- Does not pressure the recipient to click a link.
+- The message is consistent with an expected school activity.
+
+
+LEGITIMATE MESSAGE 2
+--------------------
+Subject: Assignment Submission Confirmation
+
+Hello,
+
+Your assignment has been received successfully. You can check its status by
+opening the school platform through your usual bookmark or official app.
+
+Thank you.
+
+Why it appears legitimate:
+- Confirms an expected activity.
+- Does not ask for sensitive information.
+- Does not include an unfamiliar link or unexpected attachment.
+- Suggests using the usual official platform.
+
+Note:
+These are fictional examples for educational practice. A message should not be
+considered safe based only on its wording; always check its context and sender.

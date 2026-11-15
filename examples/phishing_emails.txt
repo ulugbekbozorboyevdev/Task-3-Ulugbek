@@ -1,0 +1,57 @@
+PHISHING MESSAGE 1
+------------------
+Subject: Urgent: Account Suspended
+
+URGENT! Your account has been suspended. Verify your account immediately:
+http://account-check.example/login
+
+Red flags:
+- Uses urgent language to pressure the recipient.
+- Claims the account is suspended.
+- Asks the recipient to verify their account through an unexpected link.
+- Uses HTTP instead of HTTPS.
+
+Why it is suspicious:
+The message creates pressure and directs the recipient to an unfamiliar website.
+The link uses the reserved example domain and is included only for demonstration.
+
+
+PHISHING MESSAGE 2
+------------------
+Subject: You Have Won a Prize!
+
+Congratulations! You have won a special prize.
+Claim your reward now:
+https://bit.ly/sample-prize
+
+Red flags:
+- Announces an unexpected prize.
+- Encourages the recipient to act quickly.
+- Uses a shortened URL that hides the final destination.
+
+Why it is suspicious:
+Unexpected prize messages can be used to attract clicks. A shortened link makes
+it harder to see where the recipient will be sent. A short link is not proof of
+phishing by itself.
+
+
+PHISHING MESSAGE 3
+------------------
+Subject: Verify Your Password
+
+Dear Customer,
+
+We noticed unusual activity. Please verify your account password to avoid
+account suspension:
+https://secure-login.example/verify
+
+Red flags:
+- Uses a generic greeting.
+- Requests password-related action.
+- Threatens account suspension.
+- Directs the recipient to an unfamiliar domain.
+
+Why it is suspicious:
+Legitimate services should not ask users to disclose their passwords through
+an unexpected message. The recipient should visit the official website or app
+directly instead of using the message link.
